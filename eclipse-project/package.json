@@ -1,4 +1,9 @@
 {
+  
+  "homepage": "eclipseproject.netlify.app",
+
+
+  
   "name": "eclipse-project",
   "version": "0.1.0",
   "private": true,
